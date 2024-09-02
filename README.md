@@ -42,10 +42,10 @@
 
 ### 📬 Let’s Connect:  
 <a href="https://www.linkedin.com/in/gaurav-mishra-841229211/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30px" height="30px">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="20px" height="20px">
 </a>
 <a href="mailto:mishragaurav196@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="30px" height="30px">
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="20px" height="20px">
 </a>
 
 
