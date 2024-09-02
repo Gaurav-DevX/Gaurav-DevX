@@ -1,4 +1,54 @@
-## Hi there 👋
+# 👋 Hii, I'm Gaurav Mishra!
+## 🌟 Web Developer Enthusiast | Crafting digital magic with code
+
+
+
+### 🛠️ Tech Stack:
+
+<ul>
+  <li>Frontend: HTML, CSS, JavaScript, React</li>
+  <li>Backend: Node.js, Express, MongoDB</li>
+</ul>
+
+
+
+### 🎓 MCA-II @ Amity University
+
+
+
+### 🚀 Highlighted Projects:
+
+<ul>
+  <li>Shopease: Streamlined e-commerce platform</li>
+  <li>Insta Clone: Reimagined social media experience</li>
+</ul>
+
+
+
+
+### 💡 Passionate About:
+
+<ul>
+  <li>Building seamless user interfaces</li>
+  <li>Exploring new technologies and solutions</li>
+</ul>
+
+
+
+### 🌱 Continuous Learner | Open to Collaborations
+
+
+
+
+### 📬 Let’s Connect:  
+<a href="https://www.linkedin.com/in/gaurav-mishra-841229211/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30px" height="30px">
+</a>
+<a href="mailto:mishragaurav196@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="30px" height="30px">
+</a>
+
+
 
 <!--
 **Gaurav-DevX/Gaurav-DevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
