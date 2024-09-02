@@ -6,8 +6,8 @@
 ### 🛠️ Tech Stack:
 
 <ul>
-  <li>Frontend: HTML, CSS, JavaScript, React</li>
-  <li>Backend: Node.js, Express, MongoDB</li>
+  <li><h4>Frontend:</h4> HTML, CSS, JavaScript, React</li>
+  <li><h4>Backend:</h4> Node.js, Express, MongoDB</li>
 </ul>
 
 
